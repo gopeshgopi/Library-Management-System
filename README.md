@@ -1,1 +1,5 @@
 # Library-Management-System
+Library management system is a project which aims in developing a computerized system to maintain all the daily work of library.
+Daily in our libraries we see many books being issued returned and circulated all this requires some systematic maintenance so the librarians keep track of the books by maintaining records of the books based on their respective classificatins.
+The library managaement system program shows how the library maintains its records.It shows the names of books its collection ,no of copies,issues,returns,cost,author name,date of the withdrawal e.t.c
+Our librarian maintains the details of books that are available in library, details (credentials) of users that are already member of library. Here, we need two structures to maintain these details. Library member structure contains student_id, username, password. The Book structure contains Book_ID, Title, author, number of copies, Book issued to (is a student_id who has taken copy of that book) .
